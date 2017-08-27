@@ -1,0 +1,365 @@
+<resources>
+    <string name="app_name">LeeCo</string>
+
+    <string name="cancel">cancel</string>
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="send">Send</string>
+
+    <string name="original_problem">View This Problem In Web</string>
+    <string name="reload">Reload</string>
+    <string name="loading">Loading&#8230;</string>
+
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_hint">Write feedback here</string>
+    <string name="feedback_send_successfully">Your feedback has been sent! Thank you!</string>
+    <string name="feedback_send_failed">Failed to send your feedback.</string>
+    <string name="better_solution_title">Better Solution</string>
+    <string name="better_solution_title_for">Better Solution For&#160;</string>
+    <string name="better_solution_email_title">Send Your Better Solution</string>
+    <string name="better_solution_content">You can send your better solution and the problem title to me. After checking your wonderful solution, I will update the solution. Thanks for making LeeCo better! My e-mail address is\nNightonke@outlook.com</string>
+    <string name="better_solution_copy">Copy e-mail address</string>
+    <string name="better_solution_copied">E-mail address copied.</string>
+    <string name="better_solution_write">Write the e-mail</string>
+    <string name="sort_title">Sort By</string>
+    <string name="sort_content">Sort by</string>
+
+    <string name="click_to_login">Click to login</string>
+    <string name="favorite">Favorites</string>
+    <string name="like_postfix">&#160;Likes</string>
+    <string name="tag_postfix">&#160;Tags</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About LeeCo</string>
+
+    <string name="logout_title">Sign Out</string>
+    <string name="logout_content">Sure to sign out?</string>
+    <string name="logout_ok">sign out</string>
+    <string name="logout_cancel">cancel</string>
+
+    <string name="login_or_register_title">LeeCo</string>
+    <string name="login_or_register_content_1">Welcome to LeeCo! After signing in, you can</string>
+    <string name="login_or_register_content_2">COLLECT your favorite problems</string>
+    <string name="login_or_register_content_3">WRITE comments</string>
+    <string name="login_or_register_content_4">VOTE for comments</string>
+    <string name="login_or_register_content_5">GET VOTES from comments</string>
+    <string name="login_or_register_content_6">Let\'s join LeeCo right now!</string>
+    <string name="login_or_register_login">sign in</string>
+    <string name="login_or_register_register">sign up</string>
+    <string name="login_or_register_cancel">cancel</string>
+
+    <string name="login_title">Sign In</string>
+    <string name="login_user_name_hint">User name</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_ok">sign in</string>
+    <string name="login_forget_password">Forget password</string>
+    <string name="login_cancel">cancel</string>
+    <string name="login_empty_user_name">Empty user name</string>
+    <string name="login_empty_password">Empty password</string>
+    <string name="login_internet_error">Internet disconnected</string>
+    <string name="login_no_user">User not found</string>
+    <string name="login_password_error">Password wrong</string>
+    <string name="login_user_name_or_password_error">Incorrect user name or password</string>
+    <string name="login_ing">Signing in&#8230;</string>
+    <string name="login_successfully">Sign in successfully</string>
+
+    <string name="forget_password_title">Forget Password</string>
+    <string name="forget_password_content">Sorry to hear that you forget your password. You can send me an e-mail to get your password back. My e-mail address is\nNightonke@outlook.com</string>
+    <string name="forget_password_write">write the e-mail</string>
+    <string name="forget_password_copy">copy e-mail address</string>
+    <string name="forget_password_cancel">cancel</string>
+    <string name="forget_password_email_title">Get Your Password Back</string>
+    <string name="forget_password_copied">E-mail address copied.</string>
+
+    <string name="register_title">Sign Up</string>
+    <string name="register_user_name_hint">User name</string>
+    <string name="register_user_name_length">20 letters or 10 Chinese characters</string>
+    <string name="register_password_hint">Password</string>
+    <string name="register_password_hint_again">Password again</string>
+    <string name="register_ok">sign up</string>
+    <string name="register_cancel">cancel</string>
+    <string name="register_empty_user_name">Empty user name</string>
+    <string name="register_invalid_user_name">Invalid user name</string>
+    <string name="register_empty_password">Empty password</string>
+    <string name="register_empty_password_again">Please type your password again</string>
+    <string name="register_internet_error">Internet disconnected</string>
+    <string name="register_repeat_user">User name existed</string>
+    <string name="register_password_error">Passwords are different</string>
+    <string name="register_ing">Signing up&#8230;</string>
+    <string name="register_successfully">Sign up successfully</string>
+
+    <string name="like_not_login">Please sign in first</string>
+    <string name="like_like_successfully">Collect this problem successfully</string>
+    <string name="like_like_failed">Collect this problem failed,\ninternet disconnected</string>
+    <string name="like_dislike_successfully">Throw this problem successfully</string>
+    <string name="like_dislike_failed">Throw this problem failed,\ninternet disconnected</string>
+
+    <string name="favorite_activity_title">Favorites</string>
+    <string name="comment_activity_title">Comment</string>
+    <string name="settings_activity_title">Settings</string>
+    <string name="feedback_activity_title">Feedback</string>
+    <string name="about_activity_title">About</string>
+    <string name="help_activity_title">Help</string>
+
+    <string name="sorting">Sorting&#8230;</string>
+    <string name="researching">Researching&#8230;</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="data_not_found">Data not found,\nplease refresh data</string>
+    <string name="loading_failed">Load failed, internet disconnected</string>
+    <string name="view">VIEW</string>
+
+    <string name="collect_title">Collect</string>
+    <string name="collect_content">Collect this problem?</string>
+    <string name="collect_ok">collect</string>
+    <string name="collect_cancel">cancel</string>
+
+    <string name="dis_collect_title">Throw</string>
+    <string name="dis_collect_content">Throw this problem from your favorite?</string>
+    <string name="dis_collect_ok">throw</string>
+    <string name="dis_collect_cancel">cancel</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="copy_link_toast">Link copied</string>
+    <string name="open_with">Open With</string>
+
+    <string name="comment_re">Re:&#160;</string>
+    <string name="comment_by">By&#160;</string>
+    <string name="comment_title_hint">Title</string>
+    <string name="comment_content_hint">Write comment here</string>
+    <string name="comment_helper">Let\'s find better solutions!</string>
+    <string name="comment_unchanged">Title and content are both unchanged</string>
+    <string name="comment_not_login">Please sign in first</string>
+    <string name="comment_not_title">Empty title</string>
+    <string name="comment_invalid_title">Invalid title</string>
+    <string name="comment_not_content">Empty content</string>
+    <string name="comment_invalid_content">Invalid content</string>
+    <string name="comment_send_successfully">Add comment successfully</string>
+    <string name="comment_send_failed">Add failed, internet disconnected</string>
+    <string name="comment_not_send_title">Add Comment</string>
+    <string name="comment_not_send_content">Your comment has not been sent, sure to quit? The comment you edited will not be saved.</string>
+    <string name="comment_not_send_quit">Quit</string>
+    <string name="comment_not_send_send">Send</string>
+    <string name="comment_not_send_cancel">Cancel</string>
+    <string name="comment_update_successfully">Update comment successfully</string>
+    <string name="comment_update_failed">Update failed, internet disconnected</string>
+    <string name="comment_not_update_title">Update Comment</string>
+    <string name="comment_not_update_content">Your comment has not been updated, sure to quit? The comment you edited will not be saved.</string>
+    <string name="comment_not_update_quit">Quit</string>
+    <string name="comment_not_update_update">Update</string>
+    <string name="comment_not_update_cancel">Cancel</string>
+    <string name="comment_delete_successfully">Delete comment successfully</string>
+    <string name="comment_delete_failed">Delete failed, internet disconnected</string>
+    <string name="comment_like_successfully">Vote comment successfully</string>
+    <string name="comment_like_failed">Vote failed, internet disconnected</string>
+    <string name="comment_dislike_successfully">Veto comment successfully</string>
+    <string name="comment_dislike_failed">Veto failed, internet disconnected</string>
+    <string name="comment_copy">Content copied</string>
+
+    <string name="operate_title">Operate</string>
+    <string name="operate_edit">Edit this Comment</string>
+    <string name="operate_delete">Delete this Comment</string>
+    <string name="operate_copy">Copy the Content</string>
+    <string name="operate_reply">Reply this Comment</string>
+    <string name="operate_like">Vote this Comment</string>
+    <string name="operate_dislike">Veto this Comment</string>
+
+    <string name="problem_index_is_loading">Problems are still loading, please wait</string>
+    <string name="problem_is_loading">Problem is still loading, please wait</string>
+    <string name="solution_copied">Solution copied</string>
+
+    <string name="tag_hint">Tag</string>
+    <string name="tags_hint">Tags</string>
+    <string name="similar_problem_hint">Similar Problem</string>
+    <string name="similar_problems_hint">Similar Problems</string>
+
+    <string name="change_user_name_not_login">Please sign in first</string>
+    <string name="change_user_name_empty_user_name">Empty user name</string>
+    <string name="change_user_name_invalid_user_name">Invalid user name</string>
+    <string name="change_user_name_changing">Changing&#8230;</string>
+    <string name="change_user_name_successfully">Change user name successfully</string>
+    <string name="change_user_name_failed">Change failed, internet disconnected</string>
+    <string name="change_user_name_repeat">New user name existed</string>
+    <string name="change_user_name_text_1">Change User Name</string>
+    <string name="change_user_name_text_2">Others can see your user name on your comment.</string>
+    <string name="change_user_name_title">Change User Name</string>
+    <string name="change_user_name_old_helper">Old user name</string>
+    <string name="change_user_name_new_hint">New user name</string>
+    <string name="change_user_name_new_helper">20 letters or 10 Chinese characters</string>
+    <string name="change_user_name_ok">OK</string>
+    <string name="change_user_name_cancel">Cancel</string>
+
+    <string name="change_password_changing">Changing&#8230;</string>
+    <string name="change_password_empty_old_password">Empty old password</string>
+    <string name="change_password_incorrect">Old password incorrect</string>
+    <string name="change_password_empty_password">Empty new password</string>
+    <string name="change_password_empty_password_again">Please type your new password again</string>
+    <string name="change_password_successfully">Change password successfully</string>
+    <string name="change_password_failed">Change failed, internet disconnected</string>
+    <string name="change_password_different_password">Passwords are different</string>
+    <string name="change_password_login">Please sign in first</string>
+    <string name="change_password_text_1">Change Password</string>
+    <string name="change_password_text_2">Protect your account.</string>
+    <string name="change_password_title_1">Authentication</string>
+    <string name="change_password_hint_1">Old password</string>
+    <string name="change_password_ok_1">Next step</string>
+    <string name="change_password_cancel_1">Cancel</string>
+    <string name="change_password_title_2">Change Password</string>
+    <string name="change_password_hint_2">New password</string>
+    <string name="change_password_hint_3">New password again</string>
+    <string name="change_password_ok_2">OK</string>
+    <string name="change_password_cancel_2">Cancel</string>
+
+
+    <string name="check_update_text_1">Check Update</string>
+    <string name="check_update_text_2">Let\'s make LeeCo better.</string>
+    <string name="check_update_toast">Checking for newer version</string>
+    <string name="check_update_title">Newer Version</string>
+    <string name="check_update_update">Update</string>
+    <string name="check_update_dont_remind_this_version">Don\'t remind this version</string>
+    <string name="check_update_cancel">Next time</string>
+    <string name="check_update_newest_get_toast">This is newest version</string>
+    <string name="check_update_content">Update content:</string>
+    <string name="check_update_downloading_title">Downloading</string>
+    <string name="check_update_downloading_content">Downloading the newest version.</string>
+    <string name="new_version">New!</string>
+
+    <string name="feedback_helper">Let\'s make LeeCo better!</string>
+    <string name="feedback_not_title">Empty title</string>
+    <string name="feedback_invalid_title">Invalid title</string>
+    <string name="feedback_not_content">Empty content</string>
+    <string name="feedback_invalid_content">Invalid content</string>
+    <string name="feedback_send_successfully_2">Add feedback successfully, thank you!</string>
+    <string name="feedback_send_failed_2">Add failed, internet disconnected</string>
+    <string name="feedback_not_send_title">Add Feedback</string>
+    <string name="feedback_not_send_content">Your feedback has not been sent, sure to quit? The feedback you edited will not be saved.</string>
+    <string name="feedback_not_send_quit">Quit</string>
+    <string name="feedback_not_send_send">Send</string>
+    <string name="feedback_not_send_cancel">Cancel</string>
+
+    <string name="loading_data_title">Loading</string>
+    <string name="loading_data_content">Please wait for loading.</string>
+    <string name="loading_data_cancel">Cancel</string>
+    <string name="loading_data_failed">Loading failed, internet disconnected</string>
+
+    <string name="about_app_title">LeeCo</string>
+    <string name="about_app_content">LeeCo helps you practice algorithms and data structures.</string>
+    <string name="about_app_more">
+        LeeCo is a personal application for LeetCode(leetcode.com/problemset/algorithms/).
+        With LeeCo, you can read all the problems(including the locked problems), collect your favorite problems and see how many people collected them as well.
+        There is a sample solution for each problem for everyone to comment on.
+        The discusses on the LeetCode are list in LeeCo too, with these you can think more about algorithms and data structures.
+        And also, you can write comments for problems just like everyone does.
+        If you like some comments, you can vote for them or reply them.
+        You can get many votes for your own(that\'s a record for everyone) if your comments are so great.
+        For more information about LeeCo, you can check the help in the drawer menu in the left of the main page.
+        Now, join algorithms and data structures with LeeCo!
+    </string>
+    <string name="about_developer_title">Developer</string>
+    <string name="about_developer_content">Nightonke</string>
+    <string name="about_developer_tip">Follow Me!</string>
+    <string name="about_github_title">LeeCo Is Open Source</string>
+    <string name="about_github_content">github.com/Nightonke/LeetCoder2</string>
+    <string name="about_blog_title">Blog</string>
+    <string name="about_blog_content">blog.csdn.net/u012925008</string>
+    <string name="about_email_title">Email</string>
+    <string name="about_email_content">Nightonke@outlook.com</string>
+    <string name="about_email_me">Write Me A Letter</string>
+    <string name="about_lib_title">Libs</string>
+    <string name="about_lib_content">Thanks for the awesome libs follow</string>
+    <string name="about_lib_title_1">Images Loading</string>
+    <string name="about_lib_content_1">com.squareup.picasso</string>
+    <string name="about_lib_title_2">Smart Tab</string>
+    <string name="about_lib_content_2">com.ogaclejapan.smarttablayout</string>
+    <string name="about_lib_title_3">Finest WebView</string>
+    <string name="about_lib_content_3">com.thefinestartist</string>
+    <string name="about_lib_title_4">Bmob</string>
+    <string name="about_lib_content_4">cn.bmob.android</string>
+    <string name="about_lib_title_5">Tag Group</string>
+    <string name="about_lib_content_5">me.gujun.android.taggroup</string>
+    <string name="about_lib_title_6">Super RecyclerView</string>
+    <string name="about_lib_content_6">com.malinskiy:superrecyclerview</string>
+    <string name="about_lib_title_7">Auto Fit TextView</string>
+    <string name="about_lib_content_7">me.grantland:autofittextview</string>
+    <string name="about_lib_title_8">Animation</string>
+    <string name="about_lib_content_8">com.daimajia.androidanimations</string>
+    <string name="about_lib_title_9">Material Dialog</string>
+    <string name="about_lib_content_9">com.github.afollestad.material-dialogs</string>
+    <string name="about_lib_title_10">Cult</string>
+    <string name="about_lib_content_10">com.github.ppamorim</string>
+    <string name="about_lib_title_11">Text Drawable</string>
+    <string name="about_lib_content_11">com.amulyakhare:com.amulyakhare.textdrawable</string>
+    <string name="about_lib_title_12">Super Toast</string>
+    <string name="about_lib_content_12">com.github.johnpersano:supertoasts</string>
+    <string name="about_lib_title_13">Expandable Layout</string>
+    <string name="about_lib_content_13">com.github.aakira:expandable-layout</string>
+    <string name="about_lib_title_14">Bugly</string>
+    <string name="about_lib_content_14">com.tencent.bugly</string>
+
+    <string name="vote_post">&#160;Vote</string>
+    <string name="votes_post">&#160;Votes</string>
+    <string name="like_post">&#160;Like</string>
+    <string name="likes_post">&#160;Likes</string>
+    <string name="tag_post">&#160;Tag</string>
+    <string name="tags_post">&#160;Tags</string>
+
+    <string name="basic_title">Main Page</string>
+    <string name="basic_content">
+        In the main page of LeeCo, there are algorithm problems from LeetCode(leetcode.com/problemset/algorithms/).
+        All the algorithm problems are classified into 29 tags in the sub pages.
+        You can see the degree of difficulty and the being collected times of every problem.
+        Click a problem then you can check the details of the content, solution, discusses(from LeetCode) and comments(from LeeCo) of the problem.
+        Open the drawer menu, there are the information of user(after signing in), all the tags(click to jump to the corresponding sub page), settings, help, feedback and about.
+        There are sorting and searching icons at the top right-hand corner to help you search and read problems.
+    </string>
+    <string name="user_title">Sign Up and Sign In</string>
+    <string name="user_content">
+        You can sign up and sign in to LeeCo. After signing in, you can collect problems, publish, reply and vote comments.
+    </string>
+    <string name="favorite_title">Favorite</string>
+    <string name="favorite_content">
+        After signing in, you can click the favorite button in the drawer menu in the main page to check all the problems collected by you.
+        There are 2 ways to collect or cancel the collection of problems: long press the problem in the main page or in the favorite page, click the "heart" button in the problem page introduced below.
+        And also, you can sort or search problems in the favorite just as in main page.
+    </string>
+    <string name="problem_title">Problem</string>
+    <string name="problem_content">
+        After clicking a problem to jump to the problem page, you can find all the details of the problem, including title, tags, difficulty level, times of being collected, problem content and similar problems.
+        Try to click the "airplane" button at the top right-hand corner to check the problem in LeetCode or click the "heart" to collect this problem or cancel it.
+        If you want to check the tags of the problem, just click the tag and click the check icon(the eye in toast) to jump to the sub page of the tag.
+        Similarly, click the similar problems to jump to the corresponding problems.
+    </string>
+    <string name="solution_title">Solution</string>
+    <string name="solution_content">
+        Swipe to left to enter the solution page at the right of problem page, where there is the solution provided by LeeCo for the problem.
+        Click the copy button to copy the codes of the solution.
+        If you find some mistakes of problem and solution or just think the solution is just so so, you can click the "hand" button to feedback.
+    </string>
+    <string name="discuss_title">Discuss</string>
+    <string name="discuss_content">
+        In the discuss page at the right of solution page, there are discusser from LeetCode.
+        You can sort the discusses or click them to view in web.
+    </string>
+    <string name="comment_title">Comment</string>
+    <string name="comment_content">
+        In the comment page, you can comment on problems and solutions.
+        Click a comment then you can expand or collapse it.
+        Long press a comment then you can reply to, vote or veto for and copy the content of the comment if the comment is not published by you.
+        Long press a comment published by you, you can edit, delete it or just copy the content of the comment.
+        Click the buttons at the bottom right-hand corner of a comment to reply, vote or veto quickly.
+        You can sort the comments or publish your comments through the buttons at the top right-hand corner.
+        The times of vote to your comments will be add up to your account.
+        You can check this in the drawer in the main page.
+    </string>
+    <string name="other_title">Other</string>
+    <string name="other_content">
+        In the drawer of main page, you can also:
+        set your password or check the update in settings,
+        check this document in help,
+        feedback to help LeeCo be better and check the information of the developer and the open-source address of LeeCo.
+    </string>
+
+</resources>

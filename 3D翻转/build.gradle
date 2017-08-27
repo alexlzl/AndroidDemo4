@@ -1,0 +1,43 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.alexvasilkov:android-sign-release:0.8.1'
+    }
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'com.alexvasilkov.sign'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '24.0.2'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode 7
+        versionName '1.2.0'
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("foldable-layout-release-key.keystore")
+            keyAlias "release"
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    compile project(':3D翻转library')
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.alexvasilkov:android-commons:1.2.4'
+}

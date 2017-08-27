@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <xyz.moechat.sws3d.Sws3dView
+        android:id="@+id/textView"
+        android:layout_width="380dp"
+        android:layout_height="0dp"
+
+        android:layout_centerInParent="true"
+        android:text="QWEQEQWQWWQWQW"
+        android:layout_weight="1"
+        android:layout_gravity="left|right"
+        android:textAlignment="center"
+        android:textSize="10sp"
+        android:textColor="#ffffc92a" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/b_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b_4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b_5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b_6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="rotatex+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="rotatey+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="rotatez+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="translatex+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="translatey+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+        <Button
+            android:id="@+id/b6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="translatez+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationx+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationy+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationz+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationx+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationy+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="locationz+"
+            android:textSize="10sp"
+            android:padding="0dp"
+            android:layout_weight="0.16" />
+    </LinearLayout>
+</LinearLayout>

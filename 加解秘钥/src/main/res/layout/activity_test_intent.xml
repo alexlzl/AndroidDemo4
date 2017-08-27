@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_test_intent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lzl.as22.TestIntent">
+
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="58dp"
+        android:layout_height="16dp"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="184dp"
+        android:id="@+id/textView2"
+        tools:text="跳转" />
+</android.support.constraint.ConstraintLayout>

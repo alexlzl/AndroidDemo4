@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                 xmlns:tools="http://schemas.android.com/tools"
+                                                 android:orientation="vertical"
+                                                 android:layout_width="match_parent"
+                                                 android:layout_height="match_parent"
+                                                 android:fitsSystemWindows="false"
+                                                 android:background="#BF000000"
+        >
+
+    <!-- its margin_top is total height of mFlTitleBar and mTvPlayersList-->
+    <com.github.piasy.recyclerviewinsidescrollviewdemo.NoFlingNestedScrollView
+            android:id="@+id/mNestedScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="166dp"
+            >
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+            <android.support.v7.widget.RecyclerView
+                    android:id="@+id/mRvDetails"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="294dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    />
+        </LinearLayout>
+    </com.github.piasy.recyclerviewinsidescrollviewdemo.NoFlingNestedScrollView>
+
+    <LinearLayout
+            android:id="@+id/mLlStatistics"
+            android:layout_width="match_parent"
+            android:layout_height="460dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            app:layout_behavior=".behavior.TitleBehavior"
+            app:target="@+id/mRvDetails"
+            >
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="111dp"
+                android:text="直播结束"
+                android:textSize="28sp"
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                />
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:text="77人观看 直播时长 00:15:59"
+                android:textSize="13sp"
+                android:textColor="#BFFFFFFF"
+                android:gravity="center"
+                />
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_marginTop="23dp"
+                android:text="收到 6 人打赏 25.60 元"
+                android:textSize="17sp"
+                android:textColor="#BFFFFFFF"
+                android:gravity="center"
+                />
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:text="打赏 3 人 6.80 元"
+                android:textSize="17sp"
+                android:textColor="#BFFFFFFF"
+                android:gravity="center"
+                />
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="112dp"
+                android:layout_marginTop="111dp"
+                android:orientation="vertical"
+                >
+            <android.support.v7.widget.RecyclerView
+                    android:id="@+id/mRvPublishers"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_height="53dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#1AFFFFFF"
+                    />
+            <TextView
+                    android:id="@+id/mTvPublisherName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="13dp"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="14sp"
+                    android:textColor="@android:color/white"
+                    tools:text="张瑞圣的打赏详情"
+                    />
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+            android:id="@+id/mFlTitleBar"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            >
+
+        <TextView
+                android:id="@+id/mTvTitle"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="直播结束"
+                android:textSize="18sp"
+                android:textColor="#00FFFFFF"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                />
+
+        <ImageButton
+                android:id="@+id/mIbClose"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="15dp"
+                android:background="@null"
+                android:src="@drawable/ic_close_white_36dp"
+                />
+    </FrameLayout>
+
+</android.support.design.widget.CoordinatorLayout>

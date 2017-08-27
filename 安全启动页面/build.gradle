@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '24.0.2'
+
+    defaultConfig {
+        applicationId "com.github.piasy.safelyandroid.example"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile project(':safelyandroid')
+    compile project(':safelyandroid-lint')
+    compile 'nl.littlerobots.rxlint:rxlint:1.0'
+    compile 'io.reactivex:rxandroid:1.0.1'
+    compile 'com.jakewharton:butterknife:8.0.1'
+    compile 'com.robbypond:material-dialogs:1.0.0'
+}

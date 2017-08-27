@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/swipe_listview_layout.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/swipe_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/loadmore_default_footer.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/layout/loadmore_default_footer.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/listview_layout.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/listview_layout.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/girdview_layout.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/girdview_layout.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/listitem_layout.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/listitem_layout.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/recyclerview_layout.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/layout/recyclerview_layout.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/layout/cube_ptr_classic_default_header.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/layout/cube_ptr_classic_default_header.xml"
+    }
+]

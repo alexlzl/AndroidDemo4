@@ -1,0 +1,25 @@
+<resources>
+  <string name="app_name">RecyclerViewingg</string>
+
+  <string name="linear_recyclerView">Linear RecyclerView</string>
+  <string name="linear_recyclerView_vertical">Vertical</string>
+  <string name="linear_recyclerView_horizontal">Horizontal</string>
+
+  <string name="grid_recyclerView">Grid RecyclerView</string>
+  <string name="grid_recyclerView_standard">Standard</string>
+  <string name="grid_recyclerView_auto_fix">Auto fix</string>
+  <string name="grid_recyclerView_header">Header</string>
+
+  <string name="staggered_recyclerView">Staggered RecyclerView</string>
+
+  <string name="decoration_recyclerView">Decoration RecyclerView</string>
+  <string name="decoration_recyclerView_standard">Standard Draw</string>
+  <string name="decoration_recyclerView_over">Over Draw</string>
+
+  <string name="item_animator">Animator RecyclerView</string>
+  <string name="handle_header">Header</string>
+  <string name="handle_footer">Footer</string>
+
+  <string name="swipe_recyclerView">SwipeRefresh RecyclerView</string>
+
+</resources>

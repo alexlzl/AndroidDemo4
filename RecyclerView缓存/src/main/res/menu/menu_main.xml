@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/f_1"
+        android:orderInCategory="100"
+        android:title="1TypeRecyclerView"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/f_2"
+        android:orderInCategory="100"
+        android:title="2TypeRecyclerView"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/f_3"
+        android:orderInCategory="100"
+        android:title="3TypeRecyclerView"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 23
+  buildToolsVersion '24.0.2'
+
+  defaultConfig {
+    minSdkVersion 19
+    targetSdkVersion 23
+    versionCode 1
+    versionName "1.0"
+  }
+
+//  signingConfigs {
+//    release {
+//      storeFile file(keyStoreProperty)
+//      keyAlias keyAliasProperty
+//      storePassword keyStorePasswordProperty
+//      keyPassword keyAliasPasswordProperty
+//    }
+//  }
+
+  buildTypes {
+    debug {
+      debuggable true
+      zipAlignEnabled true
+    }
+    release {
+      debuggable false
+      zipAlignEnabled true
+//      signingConfig signingConfigs.release
+    }
+  }
+}
+
+//def getKeyStoreProperty() {
+//  return hasProperty('WASABEEF_KEYSTORE') ? WASABEEF_KEYSTORE : "debug.keystore"
+//}
+//
+//def getKeyAliasProperty() {
+//  return hasProperty('WASABEEF_KEYALIAS') ? WASABEEF_KEYALIAS : "android"
+//}
+//
+//def getKeyStorePasswordProperty() {
+//  return hasProperty('WASABEEF_KEYSTOREPASSWORD') ? WASABEEF_KEYSTOREPASSWORD : "androiddebugkey"
+//}
+//
+//def getKeyAliasPasswordProperty() {
+//  return hasProperty('WASABEEF_KEYALIASPASSWORD') ? WASABEEF_KEYALIASPASSWORD : "android"
+//}
+
+dependencies {
+  compile project(':animators')
+  compile 'com.android.support:appcompat-v7:23.4.0'
+  compile 'com.android.support:recyclerview-v7:23.1.1'
+  compile 'com.squareup.picasso:picasso:2.5.2'
+}

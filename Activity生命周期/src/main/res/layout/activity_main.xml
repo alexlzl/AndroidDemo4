@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lzl.testfragment.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="@color/colorAccent"
+        android:onClick="testOnClick"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="dialog!"
+         />
+
+    <TextView
+        android:id="@+id/dialog_activity"
+        android:background="@color/colorPrimary"
+        android:onClick="dialogActivity"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="对话框activity!"
+        />
+    <TextView
+        android:id="@+id/popup_window"
+        android:background="@color/colorAccent"
+        android:onClick="testPopupWindow"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="popup_window!"
+        />
+    <TextView
+        android:background="@color/colorPrimary"
+        android:onClick="testToast"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="toast!"
+        />
+    <TextView
+        android:background="@color/colorAccent"
+        android:onClick="secondActivity"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="second_activity"
+        />
+</LinearLayout>

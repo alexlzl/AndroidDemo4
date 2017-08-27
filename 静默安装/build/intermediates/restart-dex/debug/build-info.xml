@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="19"
+    density="xxxhdpi"
+    format="8"
+    timestamp="456863237365958"
+    token="8313431693950067635"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="262" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="210" />
+    <task
+        name="verifier"
+        duration="20" />
+
+    <artifact
+        location="/Users/lzl/Desktop/ProjectAS/AS2.2/静默安装/build/outputs/apk/静默安装-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="456863237365958"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/lzl/Desktop/ProjectAS/AS2.2/静默安装/build/outputs/apk/静默安装-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

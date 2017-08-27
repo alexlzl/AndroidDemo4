@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_action_close.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/res/mipmap-xxhdpi/ic_action_close.png"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_action_delete.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/res/mipmap-xxhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_action_add.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/res/mipmap-xxhdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_action_wechat.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/res/mipmap-xxhdpi/ic_action_wechat.png"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

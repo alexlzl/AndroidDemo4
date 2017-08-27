@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+application
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:5:5-52:19
+MERGED from [com.yanzhenjie:recyclerview-swipe:1.0.2] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.yanzhenjie/recyclerview-swipe/1.0.2/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:6:9-28
+activity#com.yanzhenjie.swiperecyclerview.activity.MainActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:13:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:18:27-74
+activity#com.yanzhenjie.swiperecyclerview.activity.AllMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:22:9-24:36
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:23:13-53
+activity#com.yanzhenjie.swiperecyclerview.activity.ViewTypeMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:25:9-27:42
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:26:13-58
+activity#com.yanzhenjie.swiperecyclerview.activity.ViewPagerMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:28:9-30:44
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:30:13-41
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:29:13-59
+activity#com.yanzhenjie.swiperecyclerview.activity.RefreshLoadMoreActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:31:9-33:41
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:33:13-38
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:32:13-61
+activity#com.yanzhenjie.swiperecyclerview.activity.ListDragMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:34:9-36:49
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:35:13-58
+activity#com.yanzhenjie.swiperecyclerview.activity.GridDragMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:37:9-39:49
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:39:13-46
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:38:13-58
+activity#com.yanzhenjie.swiperecyclerview.activity.ListDragSwipeActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:40:9-42:47
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:41:13-59
+activity#com.yanzhenjie.swiperecyclerview.activity.DragSwipeFlagsActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:43:9-45:47
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:44:13-60
+activity#com.yanzhenjie.swiperecyclerview.activity.VerticalMenuActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:46:9-48:36
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:48:13-33
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:47:13-58
+activity#com.yanzhenjie.swiperecyclerview.activity.DefineActivity
+ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:49:9-51:56
+	android:label
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:51:13-53
+	android:name
+		ADDED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml:50:13-52
+uses-sdk
+INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.yanzhenjie:recyclerview-swipe:1.0.2] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.yanzhenjie/recyclerview-swipe/1.0.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/src/main/AndroidManifest.xml

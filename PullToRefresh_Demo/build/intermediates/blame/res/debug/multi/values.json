@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 57,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 55,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 52,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 52,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 61,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 52,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 52,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 55,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 55,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 54,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 54,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 49,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 49,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 62,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 62,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 59,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 59,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 54,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 54,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 60,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 60,
+                        "endOffset": 1301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endColumn": 53,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1306,
+                        "endColumn": 53,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 73,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 73,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 52,
+                    "endOffset": 1520
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 52,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1525,
+                    "endColumn": 73,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 73,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 81,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 81,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 98,
+                    "endOffset": 1775
+                },
+                "from": {
+                    "file": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 98,
+                        "endOffset": 548
+                    }
+                }
+            }
+        ]
+    }
+]

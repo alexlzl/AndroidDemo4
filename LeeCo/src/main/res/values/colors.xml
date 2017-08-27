@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="icon_enabled">#FFFFFFFF</color>
+    <color name="icon_disabled">#303F9F</color>
+
+    <color name="tag_background">#FF4081</color>
+    <color name="similar_problem_background">#EC971F</color>
+    <color name="button_original_problem">#f0ad4e</color>
+    <color name="button_original_problem_press">#f3bb6d</color>
+
+    <color name="problem_content_background">#FFFFFF</color>
+
+    <color name="vote_background">#E7F7FF</color>
+    <color name="answer_background">#D9F5BB</color>
+    <color name="view_background">#FFE9D5</color>
+    <color name="discuss_title">#428BCA</color>
+    <color name="discuss_date">#000000</color>
+    <color name="discuss_asker">#3B5998</color>
+    <color name="discuss_other_number">#000000</color>
+
+    <color name="error_red">#E91E63</color>
+    <color name="like_red">#FF4081</color>
+    <color name="new_version_red">#F44336</color>
+    <color name="reply_blue">#3F51B5</color>
+    <color name="level">#009688</color>
+
+    <color name="snackbar_similar_problem">#E633B5E5</color>
+
+    <color name="load">#FF4081</color>
+    <color name="load_pressed">#ff73a3</color>
+
+    <color name="follow">#84D767</color>
+</resources>

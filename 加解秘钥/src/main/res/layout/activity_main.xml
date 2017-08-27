@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lzl.as22.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:onClick="testShow"
+        android:clickable="true"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="取值"
+        android:id="@+id/textView3"
+         />
+
+    <Button
+        android:text="存值"
+        android:layout_width="88dp"
+        android:layout_height="48dp"
+        android:id="@+id/button"
+        android:visibility="visible"
+        android:background="#ca7777"
+        android:onClick="testIntent"
+       />
+
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/drawable-xhdpi/ptr_rotate_arrow.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.0.0/res/drawable-xhdpi/ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/PullToRefresh_Demo/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

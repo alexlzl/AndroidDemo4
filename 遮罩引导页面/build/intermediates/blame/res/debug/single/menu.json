@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/build/intermediates/res/merged/debug/menu/menu_simple_guide_view.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/src/main/res/menu/menu_simple_guide_view.xml"
+    },
+    {
+        "merged": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/build/intermediates/res/merged/debug/menu/menu_muti_guide_view.xml",
+        "source": "/Users/lzl/Desktop/ProjectAS/AS2.2/遮罩引导页面/src/main/res/menu/menu_muti_guide_view.xml"
+    }
+]

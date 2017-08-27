@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/problem_content_background"
+    >
+
+    <RelativeLayout
+        android:id="@+id/loading_layout"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_height="50dp"
+            android:layout_width="50dp"
+            android:layout_centerInParent="true"
+            />
+
+        <TextView
+            android:id="@+id/reload"
+            android:layout_height="25dp"
+            android:layout_width="200dp"
+            android:layout_below="@id/progressBar"
+            android:background="@drawable/background_load"
+            android:textColor="@color/finestWhite"
+            android:text="@string/reload"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            />
+
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/refresh_layout"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginBottom="-3dp"
+        >
+
+        <com.nightonke.leetcoder.UI.CodeView
+            android:id="@+id/code"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:scrollbars="none"
+            android:background="@color/white"
+            />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</FrameLayout>

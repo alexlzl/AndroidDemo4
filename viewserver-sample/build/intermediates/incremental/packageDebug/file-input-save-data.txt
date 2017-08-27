@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Jul 15 11:10:55 CST 2016
+1.base=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_
+4.file=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+1.file=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_
+0.set=DEX
+0.base=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+4.base=/Users/lzl/Desktop/ProjectAS/AS2.2/viewserver-sample/build/intermediates/res/resources-debug.ap_

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.0-rc1"
+    timestamp="208206149392769"
+    token="6619410971833559552"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1246" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="366" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/outputs/apk/RecyclerView侧滑-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="208206149392769"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/lzl/Desktop/ProjectAS/AS2.2/RecyclerView侧滑/build/outputs/apk/RecyclerView侧滑-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

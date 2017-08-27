@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme" >
+        <item name="android:background">#000</item>
+    </style>
+
+</resources>
